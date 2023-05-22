@@ -1,7 +1,7 @@
 # CodeThreadArchive
 
-![Twitter](https://img.shields.io/twitter/follow/codethreadarchive?style=social)
-![GitHub](https://img.shields.io/github/stars/seu-usuario/repo?style=social)
+![Twitter](https://img.shields.io/twitter/follow/elzobrito?style=social)
+![GitHub](https://img.shields.io/github/stars/elzobrito/repo?style=social)
 
 CodeThreadArchive é um repositório GitHub que atua como um arquivo de códigos compartilhados em threads no Twitter. Neste repositório, você encontrará exemplos de implementação, soluções para problemas comuns e dicas práticas compartilhadas por desenvolvedores em tópicos específicos. Este é um espaço colaborativo para aprender, compartilhar conhecimento e encontrar inspiração na comunidade de desenvolvedores do Twitter.
 
